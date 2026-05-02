@@ -1,0 +1,14 @@
+{
+  "modelVersion": "6.0.1",
+  "description": "Micro-Poster Renderer — exercises every ArkGraphics2D module from the codelab brief (RoundRect, Region, Path, PathEffect, PathIterator, Matrix, RectUtils, ShaderEffect, ShadowLayer, MaskFilter, ImageFilter, Lattice) plus displaySync and uiEffect.",
+  "kits": [
+    "@kit.ArkGraphics2D",
+    "@kit.ArkUI",
+    "@kit.ImageKit",
+    "@kit.PerformanceAnalysisKit"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
