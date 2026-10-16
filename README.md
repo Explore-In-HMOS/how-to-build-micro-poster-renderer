@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How to Build a Micro Poster Renderer
 This project demonstrates how to build a micro poster renderer on HarmonyOS Next wearable devices using every ArkGraphics2D drawing module via a RenderNode-based pipeline driven by displaySync animation.
